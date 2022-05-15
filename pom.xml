@@ -6,7 +6,7 @@
 
     <groupId>com.asaf</groupId>
     <artifactId>test-5-runtime</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3</version>
 
     <properties>
         <version.compiler.plugin>3.3</version.compiler.plugin>
